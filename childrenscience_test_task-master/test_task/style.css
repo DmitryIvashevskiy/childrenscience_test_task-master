@@ -1,0 +1,204 @@
+.help-message {
+    width: 484px;
+    max-width: 484px;
+}
+
+/* --- this task elements --- */
+
+.draggable {
+    width: 34px;
+    height: 48px;
+
+    font-size: 32px;
+    line-height: 48px;
+
+    text-align: center;
+}
+
+.droppable {
+    width: 34px;
+    height: 48px;
+}
+
+
+/* --- this task step 1 --- */
+#field[data-task="1"] .step-description1 {
+    top: 60px;
+    width: 380px;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+#field[data-task="1"] .step-description2 {
+    top: 350px;
+    width: 380px;
+
+    font-size: 25px;
+    font-weight: bold;
+}
+#field[data-task="1"] .step-description3 {
+    top: 390px;
+    width: 137px;
+
+    font-size: 25px;
+    font-weight: bold;
+}
+#field[data-task="1"] .step-description4 {
+    top: 390px;
+    width: 625px;
+
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#field[data-task="1"] ._image1 {
+    top: 90px;
+    left: 342px;
+}
+#field[data-task="1"] ._image2 {
+    top: 340px;
+    left: -50px;
+}
+#field[data-task="1"] ._image3 {
+    top: 340px;
+    left: 230px;
+}
+
+
+#field[data-task="1"] .droppable {
+    top: 300px;
+}
+
+
+
+#field[data-task="1"] #draggable1 {
+    top: 440px;
+    left: 86px;
+}
+#field[data-task="1"] #draggable2 {
+    top: 440px;
+    left: 122px;
+}
+#field[data-task="1"] #draggable3 {
+    top: 440px;
+    left: 158px;
+}
+#field[data-task="1"] #draggable4 {
+    top: 440px;
+    left: 194px;
+}
+#field[data-task="1"] #draggable5 {
+    top: 440px;
+    left: 230px;
+}
+#field[data-task="1"] #draggable6 {
+    top: 440px;
+    left: 266px;
+}
+
+#field[data-task="1"] #droppable1 {
+    top: 380px;
+    left: 86px;
+}
+#field[data-task="1"] #droppable2 {
+    top: 380px;
+    left: 122px;
+}
+#field[data-task="1"] #droppable3 {
+    top: 380px;
+    left: 158px;
+}
+#field[data-task="1"] #droppable4 {
+    top: 380px;
+    left: 194px;
+}
+#field[data-task="1"] #droppable5 {
+    top: 380px;
+    left: 230px;
+}
+#field[data-task="1"] #droppable6 {
+    top: 380px;
+    left: 266px;
+}
+
+
+
+/* --- this task elements --- */
+
+.clickable_orange {
+    width: 34px;
+    height: 48px;
+
+    font-size: 32px;
+    line-height: 48px;
+
+    text-align: center;
+}
+.fourth-answer {
+    width: 200px;
+    height: 48px;
+
+    font-size: 32px;
+    line-height: 48px;
+
+    text-align: center;
+}
+
+
+/* --- this task step 2 --- */
+
+/* --- step 2 image--- */
+
+#field[data-task="2"] .step-description {
+    width: 380px;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+#field[data-task="2"] .__image1 {
+    top: 90px;
+    left: 342px;
+}
+
+
+/* --- step 2 clickable --- */
+
+#field[data-task="2"] #clickable1 {
+    top:367px;
+    left: 37px;
+}
+#field[data-task="2"] #clickable2 {
+    top:367px;
+    left: 97px;
+}
+#field[data-task="2"] #clickable3 {
+    top:367px;
+    left: 156px;
+}
+#field[data-task="2"] #clickable4 {
+    top:367px;
+    left: 222px;
+}
+
+
+/* --- this task elements --- */
+
+.clickable_orange {
+    width: 34px;
+    height: 48px;
+
+    font-size: 32px;
+    line-height: 48px;
+
+    text-align: center;
+}
+.fourth-answer {
+    width: 200px;
+    height: 48px;
+
+    font-size: 32px;
+    line-height: 48px;
+
+    text-align: center;
+}
+
